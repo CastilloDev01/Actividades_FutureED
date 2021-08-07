@@ -1,0 +1,52 @@
+
+Body {
+    background-color: rgb(28, 145, 255);
+    font-family: 'Oswald', sans-serif;    
+    margin: 0px;
+    width: 100%;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+
+b {
+    font-size: 30px;
+}
+
+section {
+    background-color: rgba(0, 0, 0, 0.3) ;
+    margin-bottom: 20px;
+}
+
+img {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h1{
+    font-size: 70px;
+}
+
+h2 {
+    margin: 0px;
+}
+
+.Products{
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 100%;
+}
+
+.DescType{
+    color: rgb(205, 232, 255); font-size:50;
+} 
+
+.PriceType{
+    color: rgb(0, 255, 42); 
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.TitleType{
+    color: rgb(255, 255, 255);
+}
